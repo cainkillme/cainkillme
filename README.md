@@ -1,2 +1,1 @@
-# inBestcoin
-www.inBestcoin.com
+
